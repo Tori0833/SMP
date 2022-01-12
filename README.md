@@ -1,6 +1,6 @@
-## Welcome to our SMP Pages
+## Chào mừng đến với trang SMP
 
-You can join our [Discord](https://discord.gg/k8x8Sw6u4H) to maintain and preview the content for your website in Markdown files.
+Bạn có thể vào [Discord](https://discord.gg/k8x8Sw6u4H) của bọn mình để chat chít và chơi SMP nếu bạn muốn
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
